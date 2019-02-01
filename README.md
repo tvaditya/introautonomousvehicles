@@ -1,6 +1,13 @@
-# introautonomousvehicles
+# An introduction to Autononomous Vehicles
 
 The basics of autonomous vehicles 
+
+EXECUTING THE DRIVE.PY CODE
+1) Create a new folder and add the drive.py file
+2) Add the model (.h5 file) created in Behavourial Cloning code
+3) Do any minor changes according to the file names you created and execute the code.
+4) Turn the UDACITY simulator on.
+5) Switch to autonomous mode, you car will start self-driving immediately.
 
 In order to use the drive.py program that will connect to the simulator please create a new conda environment and install the following packages:
 
