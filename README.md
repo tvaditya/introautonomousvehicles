@@ -24,5 +24,6 @@ PACKAGES TO BE INSTALLED:
 7) conda install -c anaconda pillow
 
 
-5
+
 ## under construction
+## All files needed to run the simulation are here, soon instructions on how to use them
